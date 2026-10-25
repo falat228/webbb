@@ -1,0 +1,44 @@
+.gg {
+    color: rgb(0, 0, 0);
+    font-size: 37px;
+    background-color: antiquewhite;
+    border: 5px solid rgb(238, 209, 209);
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+}
+p:hover{
+    background-color: bisque;
+    transition: 0.3s;
+}
+.gg1 {
+    color: rgb(0, 0, 0);
+    font-size: 37px;
+    background-color: antiquewhite;
+    border: 5px solid rgb(238, 209, 209);
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+}
+.gg2 {
+    color: rgb(0, 0, 0);
+    font-size: 37px;
+    background-color: antiquewhite;
+    border: 5px solid rgb(238, 209, 209);
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+}
+button:hover {
+    background-color: aqua;
+    transition: 0.3s;
+}
+h2:hover {
+    color: burlywood;
+}

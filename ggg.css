@@ -1,0 +1,13 @@
+.gallery {
+    display: flex; /* выстраивает дочерние элементы в ряд */
+    gap: 10px;     /* расстояние между картинками */
+    align-items: center; /* вертикальное выравнивание */
+  }
+img {
+    border: 5px solid gold;
+    border-radius: 17px;
+}
+img:hover {
+    border-color: bisque;
+    transition: 0.3s;
+}

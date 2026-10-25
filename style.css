@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+p {
+    color: rgb(33, 95, 74);
+    border: 2px solid violet;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+/* .one {
+    background-color: white;
+    padding: 40px 20px;
+}
+.two {
+    background-color: blue;
+    padding: 40px 20px;
+}
+.three {
+    background-color: red;
+    padding: 40px 20px;
+} */
+ button {
+    background-color: blue;
+    color: white;
+}
+button:hover {
+    background-color: red;
+    transition-duration: 0.3s;
+}
